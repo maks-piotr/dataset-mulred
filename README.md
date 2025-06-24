@@ -1,6 +1,6 @@
 # MULRED Dataset
 
-Multimodal Reddit dataset from r/india consisting of posts text and image data, along with thematic flairs assigned to them.  
+MULRED is a multimodal Reddit dataset compiled from posts on r/india, containing both text and image data, along with the thematic flairs assigned to each post.
 The dataset was originally used in the thesis _"Classification of Reddit Posts"_ by Maksymilian Piotrowski for the task of predicting flairs based on posts content. The dataset includes only multimodal posts which contain both a text body (`selftext`) and either an image, or a hyperlink that makes Reddit display an image.  
 
 ### Data sources

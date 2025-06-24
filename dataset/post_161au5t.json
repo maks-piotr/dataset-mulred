@@ -1,0 +1,26 @@
+{
+    "id": "161au5t",
+    "title": "Someone tried to take money from my mom's account using AEPS?",
+    "url": "https://www.reddit.com/r/india/comments/161au5t/someone_tried_to_take_money_from_my_moms_account/",
+    "selftext": "My mom showed me this text message she had received:\n\n&#x200B;\n\n>Your transaction of amount 3000.0 against AEPS Cash Withdrawal dated 24/08/2023 at 10:04:18 is failed with Txn ID/RRN <removed>. Please find the receipt of your transaction at the link [https://app.airtelbank.com:<](https://app.airtelbank.com:5055/ap/rt?UD=04cb1763-02fc-4611-b479-c8425dba9bcb)removed> .If your account got debited, it will be credited back within 7 days.\n\nI added <removed> wherever I felt personal information could be leaked. Clicking the link leads to the image I pasted below.  \n\n\nThe last 4 digits in the Customer Aadhaar No. does not match my mom's actual Aadhaar Number.  \n\n\nIs this a known scam? I'm not even sure how AEPS works. \n\nhttps://preview.redd.it/i6cl8a20jbkb1.png?width=381&format=png&auto=webp&s=e47aeb56adf1d3119cc3ec141d0d125e239a5668",
+    "flair": "Crime",
+    "score": 1,
+    "num_comments": 1,
+    "created_utc": 1692996715.0,
+    "convurl": "https://external-preview.redd.it/TGWZ3lFEJhMyjpKIUHtASPkKE3sJJ46slDShNdfdR04.png?auto=webp&s=5180364befc8ef92ea11f019731cb767089b7c5e",
+    "comments": [
+        "Not a scam, someone just tried to withdraw money using her Aadhaar number. Biometrics must've failed, and thus the SMS.",
+        "I asked if she had ever shared her Aadhar number but said she hasn't + the Aadhar number in the picture is wrong. \n\nI checked her SMSs to check if there was an Aadhar OTP but nope.",
+        "Another thing, check with your bank to ensure no one else's Aadhar is linked to your account.",
+        "Is it possible that someone could just link their Aadhaar to my mom's account without her being notified? It's not a joint account.",
+        "Read an old post which alluded to that... Fucking unbelievable. But with a crooked bank employee, seems possible.",
+        "Will do, thanks for the info."
+    ],
+    "cleaned_text": "someone tried take money moms account using aeps mom showed text message received xb transaction amount aeps cash withdrawal dated failed txn idrrn removed please find receipt transaction link httpsappairtelbankcomhttpsappairtelbankcomaprtudcbfcbcdbabcbremoved account got debited credited back within days added removed wherever felt personal information could leaked clicking link leads image pasted last digits customer aadhaar match moms actual aadhaar number known scam im even sure aeps works ",
+    "cleaned_title": "someone tried take money moms account using aeps",
+    "cleaned_selftext": "mom showed text message received xb transaction amount aeps cash withdrawal dated failed txn idrrn removed please find receipt transaction link httpsappairtelbankcomhttpsappairtelbankcomaprtudcbfcbcdbabcbremoved account got debited credited back within days added removed wherever felt personal information could leaked clicking link leads image pasted last digits customer aadhaar match moms actual aadhaar number known scam im even sure aeps works",
+    "cleaned_comments": "scam someone tried withdraw money using aadhaar number biometrics mustve failed thus sms asked ever shared aadhar number said hasnt aadhar number picture wrong checked smss check aadhar otp nope another thing check bank ensure one elses aadhar linked account possible someone could link aadhaar moms account without notified joint account read old post alluded fucking unbelievable crooked bank employee seems possible thanks info",
+    "light_cleaned_title": "Someone tried to take money from my mom's account using AEPS?",
+    "light_cleaned_selftext": "My mom showed me this text message she had received: &#x200B; >Your transaction of amount 3000.0 against AEPS Cash Withdrawal dated 24/08/2023 at 10:04:18 is failed with Txn ID/RRN <removed>. Please find the receipt of your transaction at the link [https://app.airtelbank.com:<](https://app.airtelbank.com:5055/ap/rt?UD=04cb1763-02fc-4611-b479-c8425dba9bcb)removed> .If your account got debited, it will be credited back within 7 days. I added <removed> wherever I felt personal information could be leaked. Clicking the link leads to the image I pasted below. The last 4 digits in the Customer Aadhaar No. does not match my mom's actual Aadhaar Number. Is this a known scam? I'm not even sure how AEPS works.",
+    "light_cleaned_comments": "Not a scam, someone just tried to withdraw money using her Aadhaar number. Biometrics must've failed, and thus the SMS. I asked if she had ever shared her Aadhar number but said she hasn't + the Aadhar number in the picture is wrong. I checked her SMSs to check if there was an Aadhar OTP but nope. Another thing, check with your bank to ensure no one else's Aadhar is linked to your account. Is it possible that someone could just link their Aadhaar to my mom's account without her being notified? It's not a joint account. Read an old post which alluded to that... Fucking unbelievable. But with a crooked bank employee, seems possible. Will do, thanks for the info."
+}

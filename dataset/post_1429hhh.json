@@ -1,0 +1,23 @@
+{
+    "id": "1429hhh",
+    "title": "How to keep data on during call?",
+    "url": "https://i.redd.it/cjes2sx64d4b1.jpg",
+    "selftext": "This may not be the right sub and you guys can let me know the right aub for this.\nOn my Samsung S20 FE 5G model, I am unable to use mobile data during call. Ihace 2 sims -\nSim 1 - JIO\nSim 2 - Vodafone.\n\nI tried data on both sims but whenever i get call, internet doesn't work.\nAttached is the screenshot of my settings.\n\nDid anybody face the same issue in past and were able to fix it. None of the solution on internet worked for me.",
+    "flair": "AskIndia",
+    "score": 1,
+    "num_comments": 4,
+    "created_utc": 1686041895.0,
+    "convurl": "https://i.redd.it/cjes2sx64d4b1.jpg",
+    "comments": [
+        "Get a WiFi dude!",
+        "Carriers that use CDMA networks do not support simultaneous Voice and Data connections. However, LTE phones on these networks may support simultaneous Voice and Data if your phone and network support Voice over LTE. So, just keep the voLTE calls option enabled as you have already,.... this will do what you want.\n\nAdditionally, there is Samsung R2([r2.community.samsung.com](https://r2.community.samsung.com/)) .. a community of Samsung users and pretty quick in responses too. You ask anything related to Smasung there.",
+        "Update your Samsung system. There is a new option just above Access point names in the new system which asks keep data on during calls."
+    ],
+    "cleaned_text": "keep data call may right sub guys let know right aub samsung fe g model unable use mobile data call ihace sims sim jio sim vodafone tried data sims whenever get call internet doesnt work attached screenshot settings anybody face issue past able fix none solution internet worked ",
+    "cleaned_title": "keep data call",
+    "cleaned_selftext": "may right sub guys let know right aub samsung fe g model unable use mobile data call ihace sims sim jio sim vodafone tried data sims whenever get call internet doesnt work attached screenshot settings anybody face issue past able fix none solution internet worked",
+    "cleaned_comments": "get wifi dude carriers use cdma networks support simultaneous voice data connections however lte phones networks may support simultaneous voice data phone network support voice lte keep volte calls option enabled already want additionally samsung rrcommunitysamsungcomhttpsrcommunitysamsungcom community samsung users pretty quick responses ask anything related smasung update samsung system new option access point names new system asks keep data calls",
+    "light_cleaned_title": "How to keep data on during call?",
+    "light_cleaned_selftext": "This may not be the right sub and you guys can let me know the right aub for this. On my Samsung S20 FE 5G model, I am unable to use mobile data during call. Ihace 2 sims - Sim 1 - JIO Sim 2 - Vodafone. I tried data on both sims but whenever i get call, internet doesn't work. Attached is the screenshot of my settings. Did anybody face the same issue in past and were able to fix it. None of the solution on internet worked for me.",
+    "light_cleaned_comments": "Get a WiFi dude! Carriers that use CDMA networks do not support simultaneous Voice and Data connections. However, LTE phones on these networks may support simultaneous Voice and Data if your phone and network support Voice over LTE. So, just keep the voLTE calls option enabled as you have already,.... this will do what you want. Additionally, there is Samsung R2([r2.community.samsung.com](https://r2.community.samsung.com/)) .. a community of Samsung users and pretty quick in responses too. You ask anything related to Smasung there. Update your Samsung system. There is a new option just above Access point names in the new system which asks keep data on during calls."
+}

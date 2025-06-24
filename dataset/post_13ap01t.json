@@ -1,0 +1,27 @@
+{
+    "id": "13ap01t",
+    "title": "Some web pages are not loading properly",
+    "url": "https://www.reddit.com/r/india/comments/13ap01t/some_web_pages_are_not_loading_properly/",
+    "selftext": "I am using arch linux. For me github is loading very slow and sometimes web pages are not loading properly. For ex this github repo - [https://github.com/adi1090x/rofi](https://github.com/adi1090x/rofi) keeps on loading and even after loading some images (like the drop down images) doesn't load properly. Only facing this problem with github and no other websites. Tried to go to github on my mobile (jio) and facing the same problem. Anyone having the same problem ?",
+    "flair": "AskIndia",
+    "score": 0,
+    "num_comments": 8,
+    "created_utc": 1683468891.0,
+    "convurl": "https://external-preview.redd.it/DvpZj0s3qXzjlAeHRQfKmuLITi-MpUseCX5yQ51WI-s.jpg?auto=webp&v=enabled&s=77e337892638e868347c3dbdd7b8c1eaf66878f4",
+    "comments": [
+        "is your wired internet also jio because github domains has been facing irrational blocks on some indian isps including jio.",
+        "I am using alliance broadband. I live in West Bengal.",
+        "yeah it's likely alliance is using backbone of jio which is where it gets randomly blocked.",
+        "Fuck it bro I am using mullvad vpn then. :)",
+        "yeah it's a good idea to have a vpn service handy. unless we reach a stage where they go after all vpns as well.",
+        "\\+1 bro. Mullvad is cheap 449 rupees per month. U can connect upto 5 devices and unlimited data available. It is also open source :)",
+        "i am on azirevpn for a while now. works well on my isp."
+    ],
+    "cleaned_text": "web pages loading properly using arch linux github loading slow sometimes web pages loading properly ex github repo httpsgithubcomadixrofihttpsgithubcomadixrofi keeps loading even loading images like drop images doesnt load properly facing problem github websites tried go github mobile jio facing problem anyone problem ",
+    "cleaned_title": "web pages loading properly",
+    "cleaned_selftext": "using arch linux github loading slow sometimes web pages loading properly ex github repo httpsgithubcomadixrofihttpsgithubcomadixrofi keeps loading even loading images like drop images doesnt load properly facing problem github websites tried go github mobile jio facing problem anyone problem",
+    "cleaned_comments": "wired internet also jio github domains facing irrational blocks indian isps including jio using alliance broadband live west bengal yeah likely alliance using backbone jio gets randomly blocked fuck bro using mullvad vpn yeah good idea vpn service handy unless reach stage go vpns well bro mullvad cheap rupees per month u connect upto devices unlimited data available also open source azirevpn works well isp",
+    "light_cleaned_title": "Some web pages are not loading properly",
+    "light_cleaned_selftext": "I am using arch linux. For me github is loading very slow and sometimes web pages are not loading properly. For ex this github repo - [https://github.com/adi1090x/rofi](https://github.com/adi1090x/rofi) keeps on loading and even after loading some images (like the drop down images) doesn't load properly. Only facing this problem with github and no other websites. Tried to go to github on my mobile (jio) and facing the same problem. Anyone having the same problem ?",
+    "light_cleaned_comments": "is your wired internet also jio because github domains has been facing irrational blocks on some indian isps including jio. I am using alliance broadband. I live in West Bengal. yeah it's likely alliance is using backbone of jio which is where it gets randomly blocked. Fuck it bro I am using mullvad vpn then. :) yeah it's a good idea to have a vpn service handy. unless we reach a stage where they go after all vpns as well. \\+1 bro. Mullvad is cheap 449 rupees per month. U can connect upto 5 devices and unlimited data available. It is also open source :) i am on azirevpn for a while now. works well on my isp."
+}

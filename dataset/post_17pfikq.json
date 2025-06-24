@@ -1,0 +1,19 @@
+{
+    "id": "17pfikq",
+    "title": "Help me build the definitive list📜 of Indian cities rated on 10 key parameters.",
+    "url": "https://www.reddit.com/gallery/17pfikq",
+    "selftext": "A week ago I saw this tweet wherein the author asked his followers to rate their cities out of 10 on some parameters. It had 80k views.\n\nThe [tweet](https://twitter.com/marinebharat/status/1718624833397981321?s=19)\n\nThe comment section was a goldmine. So I went to work and built a bare bones platform to crowdsource data about Indian cities.\n\nSo here's the plan... ..\n\nI want this to be a community thing. Your insights and ratings will make this platform awesome!\n\nThe data might be a bit rough around the edges, but hey, that's where you all come in! I've populated the dashboard with some dummy data..\n\nHere's the [webapp](https://citysort.vercel.app)",
+    "flair": "Policy/Economy",
+    "score": 10,
+    "num_comments": 0,
+    "created_utc": 1699310828.0,
+    "convurl": "https://i.redd.it/rxuwveji3tyb1.png",
+    "comments": [],
+    "cleaned_text": "help build definitive list indian cities rated key parameters week ago saw tweet wherein author asked followers rate cities parameters k views tweethttpstwittercommarinebharatstatuss comment section goldmine went work built bare bones platform crowdsource data indian cities heres plan want community thing insights ratings make platform awesome data might bit rough around edges hey thats come ive populated dashboard dummy data heres webapphttpscitysortvercelapp ",
+    "cleaned_title": "help build definitive list indian cities rated key parameters",
+    "cleaned_selftext": "week ago saw tweet wherein author asked followers rate cities parameters k views tweethttpstwittercommarinebharatstatuss comment section goldmine went work built bare bones platform crowdsource data indian cities heres plan want community thing insights ratings make platform awesome data might bit rough around edges hey thats come ive populated dashboard dummy data heres webapphttpscitysortvercelapp",
+    "cleaned_comments": "",
+    "light_cleaned_title": "Help me build the definitive list📜 of Indian cities rated on 10 key parameters.",
+    "light_cleaned_selftext": "A week ago I saw this tweet wherein the author asked his followers to rate their cities out of 10 on some parameters. It had 80k views. The [tweet](https://twitter.com/marinebharat/status/1718624833397981321?s=19) The comment section was a goldmine. So I went to work and built a bare bones platform to crowdsource data about Indian cities. So here's the plan... .. I want this to be a community thing. Your insights and ratings will make this platform awesome! The data might be a bit rough around the edges, but hey, that's where you all come in! I've populated the dashboard with some dummy data.. Here's the [webapp](https://citysort.vercel.app)",
+    "light_cleaned_comments": ""
+}

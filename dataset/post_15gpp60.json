@@ -1,0 +1,22 @@
+{
+    "id": "15gpp60",
+    "title": "Need for basic spell check on signages",
+    "url": "https://www.reddit.com/r/india/comments/15gpp60/need_for_basic_spell_check_on_signages/",
+    "selftext": "Just observed somewhere this signage (To-let for Rent purpose). The painter is not to be blamed. The one who gives the advertisement and then approves the template to be drawn/painted needs to ensure the content is spell-checked.\n\nThe painter's responsibility is to just implement and/or create the art work that has been entrusted to him though.\n\nhttps://preview.redd.it/j4rpdg32osfb1.png?width=526&format=png&auto=webp&s=318f7816ed09f67c7f71f72aec055f3e52921e6f",
+    "flair": "Rant / Vent",
+    "score": 1,
+    "num_comments": 1,
+    "created_utc": 1691024587.0,
+    "convurl": "https://b.thumbs.redditmedia.com/n0vzCCvogvtN30U6glZ0z97z7zM_LyHKJxbop9uF_Do.jpg",
+    "comments": [
+        "Software engineer coding skills",
+        "Perhaps. A templated string and concatenation."
+    ],
+    "cleaned_text": "need basic spell check signages observed somewhere signage tolet rent purpose painter blamed one gives advertisement approves template drawnpainted needs ensure content spellchecked painters responsibility implement andor create art work entrusted though ",
+    "cleaned_title": "need basic spell check signages",
+    "cleaned_selftext": "observed somewhere signage tolet rent purpose painter blamed one gives advertisement approves template drawnpainted needs ensure content spellchecked painters responsibility implement andor create art work entrusted though",
+    "cleaned_comments": "software engineer coding skills perhaps templated string concatenation",
+    "light_cleaned_title": "Need for basic spell check on signages",
+    "light_cleaned_selftext": "Just observed somewhere this signage (To-let for Rent purpose). The painter is not to be blamed. The one who gives the advertisement and then approves the template to be drawn/painted needs to ensure the content is spell-checked. The painter's responsibility is to just implement and/or create the art work that has been entrusted to him though.",
+    "light_cleaned_comments": "Software engineer coding skills Perhaps. A templated string and concatenation."
+}
